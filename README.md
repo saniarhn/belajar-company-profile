@@ -1,4 +1,2 @@
 # belajar-company-profile
-menggunakan bahasa pemograman php dengan framework laravel
-menggunakan sql
-html, css js
+contoh website company profile sederhana yang dibangun menggunakan bahasa pemograman php dengan framework laravel, database MySql
